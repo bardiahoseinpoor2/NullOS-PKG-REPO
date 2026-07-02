@@ -6,7 +6,7 @@ import sys
 from groq import Groq
 
 # ---------------- CONFIGURATION ----------------
-GROQ_API_KEY = "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"
+GROQ_API_KEY = ""
 MEMORY_FILE = "agent_memory.json"
 MODEL = "llama-3.3-70b-versatile"
 
